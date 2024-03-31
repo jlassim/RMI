@@ -1,4 +1,4 @@
-# serveur RMI n java
+# serveur RMI en java
 Ce projet est un exemple simple d'un serveur RMI en Java qui fournit un service de temps. Le serveur RMI expose un objet distant qui permet aux clients de récupérer l'heure actuelle à partir du serveur.
 ## structure
 TimeService.java : Interface définissant le service de temps. TimeServiceImpl.java : Implémentation du service de temps. 
